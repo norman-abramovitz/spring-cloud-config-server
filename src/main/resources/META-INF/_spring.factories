@@ -1,0 +1,4 @@
+# Auto-Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=
+# Bootstrap Configuration
+org.springframework.cloud.bootstrap.BootstrapConfiguration=

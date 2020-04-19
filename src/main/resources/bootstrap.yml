@@ -1,0 +1,7 @@
+spring:
+  vault:
+    enabled: false
+    discovery:
+      enabled: false
+    reactive:
+      enabled: false
