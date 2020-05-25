@@ -10,6 +10,12 @@ spring:
       server:
         git:
           uri: https://github.com/spring-cloud-samples/config-repo
+  banner:
+    location: "file:/config/banner.txt"
+  main:
+    banner-mode: console  # values off console log
+#  profiles:
+#    active: vault
 management:
   context_path: /admin
  
